@@ -1,0 +1,2 @@
+# termux-xmrig
+Termux XMRIG
